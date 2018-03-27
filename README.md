@@ -6,11 +6,12 @@ Data augmentation is performed using a custom transformer that shifts each image
 
 Final model performance measures:
 
+```
 Accuracy=0.9284
 F1=0.927395482799
 Average Precision=0.928758763403
 Average Recall=0.92799758435
-
+```
 
 ## Requirements
 
